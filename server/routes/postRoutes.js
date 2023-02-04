@@ -19,7 +19,7 @@ cloudinary.config({
     try {
       const posts = await Post.find({});
       res.status(200).json({ success: true, data: posts });
-    } catch (err) {
+    } catch (error) {
       res.status(500).json({ success: false, message: 'Fetching posts failed, please try again' });
     }
   });
