@@ -1,6 +1,6 @@
 # AI image generation app
  ## Project description : 
-A full stack mern AI image generation app that uses dall.e api in order to allow you to generate new images from text, you can also share a post with the community that contains the generated image and its description. In addition you can search for a post or download it.
+A full stack mern AI image generation app that uses dall.e api in order to allow you to generate new images from text, you can also share a post with the community that contains the generated image and its description. In addition you can search for a post or download it
 
 ## Setup and use :
 1- Clone the repo
